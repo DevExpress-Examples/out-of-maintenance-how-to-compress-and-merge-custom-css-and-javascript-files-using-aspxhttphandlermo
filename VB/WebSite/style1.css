@@ -1,0 +1,15 @@
+﻿h1 {
+	margin: 20px;
+	color: #EEEEEE;
+	font-family: Arial, Verdana;
+	font-size: 14pt;
+}
+p {
+	font-family: Arial, Verdana;
+	font-size: 9pt;
+	margin: 10px;
+	color: #f0f0f0;
+	background-color: #888888;
+	width: 77%;
+	padding: 10px;
+}
