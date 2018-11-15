@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [script1.js](./CS/WebSite/script1.js) (VB: [script1.js](./VB/WebSite/script1.js))
+* [script4.js](./CS/WebSite/script4.js) (VB: [script4.js](./VB/WebSite/script4.js))
+* [script5.js](./CS/WebSite/script5.js) (VB: [script5.js](./VB/WebSite/script5.js))
+* [script2.js](./CS/WebSite/Scripts/script2.js) (VB: [script2.js](./VB/WebSite/Scripts/script2.js))
+* [script3.js](./CS/WebSite/Scripts/script3.js) (VB: [script3.js](./VB/WebSite/Scripts/script3.js))
+* [Web.config](./CS/WebSite/Web.config) (VB: [Web.config](./VB/WebSite/Web.config))
+<!-- default file list end -->
 # How to compress and merge custom CSS and JavaScript files using ASPxHttpHandlerModule
 
 
