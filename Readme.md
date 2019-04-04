@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [script1.js](./CS/WebSite/script1.js) (VB: [script1.js](./VB/WebSite/script1.js))
 * [script2.js](./CS/WebSite/Scripts/script2.js) (VB: [script2.js](./VB/WebSite/Scripts/script2.js))
